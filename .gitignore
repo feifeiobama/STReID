@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+*.pyc
+data/*
+out.log
+out2.log
+out3.log
+ACT_pretrain/*
+log/*
+*-checkpoint.py
+*-checkpoint.ipynb
